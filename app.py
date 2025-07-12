@@ -3,7 +3,7 @@ import joblib
 #streamlit run app.py
 
 # Load the trained model
-model = joblib.load("model/fake_news_model.pkl")
+model = joblib.load("fake_news_model.pkl")
 
 # Streamlit app
 st.title("📰 Fake News Detector")
