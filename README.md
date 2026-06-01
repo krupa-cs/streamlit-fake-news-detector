@@ -1,7 +1,7 @@
 # streamlit-fake-news-detector
 A fake news detection app using Python and Streamlit
 ## 🔗 Live App
-👉 [Click here to try the Fake News Detector] (https://app-fake-news-detector-lxamtfekz4nt6ev3vw9t5.streamlit.app)
+👉[LINK]([url](https://app-fake-news-detector-lxamtfekz4nt6ev3vww9t5.streamlit.app/)) 
 
 # 📰 Fake News Detector
 
